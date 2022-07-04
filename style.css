@@ -13,11 +13,13 @@ color: orange;
 
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 
 .wt{
     width: 50%;
     padding-left: 5%;
+    padding-right: 10%;
 }
 
 .wt img{
@@ -34,4 +36,10 @@ color: white;
 .top-bannar{
    background-image: url(developer-portfolio-master/images/top-banner.png);
    background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(dream-bg.png);
+ 
+    background-repeat: no-repeat;
+    background-position: right;
 }
